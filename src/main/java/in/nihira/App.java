@@ -14,4 +14,8 @@ public class App
     	int j =78;
         System.out.println( "Hello World!" );
     }
+    //chanegs for bug 121
+    int h=4;
+    String name="sujd";
 }
+
