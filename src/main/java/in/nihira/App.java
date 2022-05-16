@@ -16,6 +16,9 @@ public class App
     }
     //chanegs for bug 121
     int h=4;
+<<<<<<< Updated upstream
     String name="sujd";
+=======
+>>>>>>> Stashed changes
 }
 
